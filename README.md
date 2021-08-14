@@ -1,2 +1,2 @@
-# book-recommendation-app
+# the-office-recommendation-app
 Created with CodeSandbox
