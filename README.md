@@ -1,2 +1,2 @@
-# the-office-recommendation-app
-Created with CodeSandbox
+# the-book-recommendation-app
+Check out some of my most favourite books. Built using ReactJS.
